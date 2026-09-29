@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Interstellar", "year": 2014, "genre": "Sci-Fi" },
+  { "id": 2, "title": "Steel ball run", "year": 2010, "genre": "Action" },
+  { "id": 3, "title": "Bloodhounds", "year": 1972, "genre": "Crime" },
+  { "id": 4, "title": "Pianist", "year": 2001, "genre": "Action" },
+  { "id": 5, "title": "Your name", "year": 1997, "genre": "Romance" },
+  { "id": 6, "title": "Attack on titan", "year": 2010, "genre": "Action" }
+]
